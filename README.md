@@ -7,4 +7,8 @@ Le GOFF Thibault
 
 ## Answers
 
-Answers are written under each question in the `exercise` folder.
+* [Exercise 1](./exercises/tcc-vs-lcc.md)
+* [Exercise 2](./exercises/using-pmd.md)
+* [Exercise 3](./code/Exercise3/)
+* [Exercise 4](./code/Exercise4/)
+* [Exercise 5](./code/Exercise5/)

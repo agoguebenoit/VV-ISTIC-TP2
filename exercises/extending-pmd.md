@@ -20,6 +20,3 @@ Write below the XML definition of your rule.
 You can find more information on extending PMD in the following link: https://pmd.github.io/latest/pmd_userdocs_extending_writing_rules_intro.html, as well as help for using `pmd-designer` [here](https://github.com/selabs-ur1/VV-ISTIC-TP2/blob/master/exercises/designer-help.md).
 
 Use your rule with different projects and describe you findings below. See the [instructions](../sujet.md) for suggestions on the projects to use.
-
-## Answer
-
